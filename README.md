@@ -4,9 +4,6 @@ weblio古文のスクレーパ
 ## usage
 
 ```python
-
-import scrape
-
 from scrape import getMeaningsByKanji
 
 print(getMeaningsByKanji("悪"))
